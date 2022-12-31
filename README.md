@@ -1,5 +1,6 @@
 # Codewars (https://www.codewars.com/)
 
-Repositório para estudos e revisões gerais utilizando o site Codewars.
+Repo for study and general reviews using the website Codewars.
 
-Será utilizado para estudar Python, C, SQL e JavaScript.
+Languages that i'll use: Python, C, SQL and JavaScript. 
+But the focous is Python
